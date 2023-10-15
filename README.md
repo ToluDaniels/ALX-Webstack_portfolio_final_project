@@ -15,6 +15,9 @@ This project is a simple weather app that allows users to search for the current
 - JavaScript
 - OpenWeatherMap API
 
+## Project Description
+The project description can be found [Google Slide](https://docs.google.com/presentation/d/1TC3yYABROA1QKfgsI_H-qeBrKcYp7jxzqfmLDYcShxc/edit#slide=id.g723630543_3_0).
+
 ## Getting Started
 
 To get started with the project, follow these steps:
