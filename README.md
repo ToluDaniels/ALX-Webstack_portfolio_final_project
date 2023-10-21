@@ -17,17 +17,13 @@ This project is a simple weather app that allows users to search for the current
 ## Project Description
 The project description can be found in [Google Slide](https://docs.google.com/presentation/d/1TC3yYABROA1QKfgsI_H-qeBrKcYp7jxzqfmLDYcShxc/edit#slide=id.g29123c1e0b9_4_17).
 
-## Project Demo
-The project demo can be found in [HERE](https://toludaniels.github.io/Weather-App/).
-
 ## Getting Started
 
 To get started with the project, follow these steps:
 
-1. Clone the repository to your local machine
-2. Open the `index.html` file in your web browser
-3. Enter a location name or zip code in the search bar and click the search button
-4. View the current weather conditions for the specified location
+1. Open this link [HERE](https://toludaniels.github.io/Weather-App/).
+2. Enter a location name or zip code in the search bar and click the search button
+3. View the current weather conditions for the specified location
 
 ## API Key
 
