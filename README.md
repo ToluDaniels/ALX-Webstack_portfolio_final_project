@@ -18,6 +18,9 @@ This project is a simple weather app that allows users to search for the current
 ## Project Description
 The project description can be found in [Google Slide](https://docs.google.com/presentation/d/1TC3yYABROA1QKfgsI_H-qeBrKcYp7jxzqfmLDYcShxc/edit#slide=id.g29123c1e0b9_4_17).
 
+## Project Demo
+The project demo can be found in [HERE](https://toludaniels.github.io/Weather-App/).
+
 ## Getting Started
 
 To get started with the project, follow these steps:
