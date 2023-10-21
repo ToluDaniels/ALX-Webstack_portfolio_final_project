@@ -6,7 +6,6 @@ This project is a simple weather app that allows users to search for the current
 
 - Search for weather conditions by location name or zip code
 - View current temperature, humidity, wind speed, and weather description
-- Automatically detects user's location and displays weather conditions
 
 ## Technologies Used
 
